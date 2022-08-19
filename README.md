@@ -8,7 +8,7 @@ Este repositorio contiene un proyecto REST Server Base apta para proyectos API.
 
 ## __Acerca De__
 
-Se trara de un proyecto apto para trabajar con API (Application Programming Interface). Dicha base esta construida en __Node JS__ en conjunto de __Express__, el framework backend más popular de Node JS.
+Se trata de un proyecto apto para trabajar con API (Application Programming Interface). Dicha base esta construida en __Node JS__ en conjunto de __Express__, el framework backend más popular de Node JS.
 
 Este REST Server, no está orientado hacia una configuración especial hacia un módelo de base de datos. 
 
@@ -21,7 +21,7 @@ Además de utilizar __Express__, algunas dependencias que complementan a este pr
 - __cors:__ Dependencia para configurar la seguridad en los llamados a nuestras APIs.
 - __morgan:__ Middleware que registra las REQUEST junto con otra información dependiendo de su configuración y el valor predeterminado utilizado. Demuestra ser muy útil durante la depuración.
 - __helmet:__ Dependencia para agregar algunos HEADERS con el fin de incrementar la seguridad en nuestras APIs.
-- __babel:__ Herramienta que nos permite transformar nuestro código JS de última generación a un código de JS que cualquier navegador o versión de Node.js pueda entender.
+- __express-validator:__ Herramienta que permite implementar validaciones.
 
 <br>
 
