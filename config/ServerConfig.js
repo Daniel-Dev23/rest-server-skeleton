@@ -13,7 +13,8 @@ class ServerConfig {
         this.port = process.env.PORT || 3000;
 
         this.pathServices = {
-            helloWorld: '/'
+            helloWorld: '/',
+            technology: '/api/v1/technologies'
         }
 
         this.middlewares();
@@ -34,6 +35,7 @@ class ServerConfig {
 
         // Paths Services
         this.app.use( this.pathServices.helloWorld, require('../src/v1/routers/HelloWorldRouter') );
+        this.app.use( this.pathServices.technology, require('../src/v1/routers/TechnologyRouter') );
 
         // Error 404
         this.app.use( error404 );
