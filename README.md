@@ -73,6 +73,17 @@ Si esta base te es de utilidad, puedes eliminar el archivo json de prueba, así 
 
     Esto iniciará el servidor con __Nodemon__ en modo de desarrollo para comenzar a realizar las peticiones.
 
+    Por defecto, el puerto del server se iniciará en el __"8081"__, pero si este puerto no esta disponible
+    entonces se iniciará en el puerto __"3000"__ (El puerto lo puedes configurar según desees en el archivo __.env__).
+
+    Si todo se ha ejecutado correctamente, al ingresar a la URL del Server, nos mostrará algo como esto:
+    ```json
+    {
+        "status": true,
+        "message": "Hello World! Welcome to REST Server API :D"
+    }
+    ```
+
 <br>
 
 __NOTA:__ Se recomienda utilizar un cliente para realizar peticiones REST como __Postman__, __Insomnia__, __Thunder Client__ etc.
