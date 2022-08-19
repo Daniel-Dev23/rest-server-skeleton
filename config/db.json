@@ -1,0 +1,40 @@
+{
+    "technologies": [
+      {
+        "id": "61dbae02-c147-4e28-863c-db7bd402b2d6",
+        "technologyName": "Node JS",
+        "category": "Language Programming",
+        "description": "Node.js is a cross-platform, open source, server-side (but not limited to) runtime environment based on the JavaScript programming language, asynchronous, with data I/O in an event-driven architecture and based on Google's V8 engine.",
+        "documentationLink": "https://nodejs.org/es/docs/",
+        "createAt": "15/08/2022, 08:30:34 AM",
+        "updateAt": "15/08/2022, 08:30:34 AM"
+      },
+      {
+        "id": "4a3d9aaa-608c-49a7-a004-66305ad4ab50",
+        "technologyName": "React JS",
+        "category": "Frontend",
+        "description": "React (also called React.js or ReactJS) is an open source JavaScript library designed to create user interfaces with the goal of facilitating single-page application development. It is maintained by Facebook and the open source community.",
+        "documentationLink": "https://es.reactjs.org/docs/getting-started.html",
+        "createAt": "14/08/2022, 01:26:12 PM",
+        "updateAt": "14/08/2022, 01:26:12 PM"
+      },
+      {
+        "id": "d8be2362-7b68-4ea4-a1f6-03f8bc4eede7",
+        "technologyName": "MongoDB",
+        "category": "Database",
+        "description": "MongoDB is a document database that offers great scalability and flexibility, and an advanced query and indexing model.",
+        "documentationLink": "https://www.mongodb.com/docs/",
+        "createAt": "13/08/2022, 03:12:00 PM",
+        "updateAt": "13/08/2022, 03:12:00 PM"
+      },
+      {
+        "id": "5f2fda19-b4a7-4016-8b65-1cd1c70b803e",
+        "technologyName": "Python",
+        "category": "Language Programming",
+        "description": "Python is a high-level interpreted programming language whose philosophy emphasizes the readability of its code, it is used to develop applications of all kinds, examples: Instagram, Netflix, Spotify, Panda 3D, among others.",
+        "documentationLink": "https://docs.python.org/3/",
+        "createAt": "17/8/2022 14:08:52",
+        "updateAt": "17/8/2022 14:08:53"
+      }
+    ]
+  }
