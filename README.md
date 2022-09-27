@@ -1,10 +1,10 @@
-# __REST Server Base__
+# __REST Server Skeleton__
 
 <img src="banner-nodejs.jpg" width="600">
 
 <br>
 
-Este repositorio contiene un proyecto REST Server Base apta para proyectos API.
+Este repositorio contiene un proyecto REST Server apta para proyectos API.
 
 ## __Acerca De__
 
