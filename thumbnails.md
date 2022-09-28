@@ -68,3 +68,5 @@
 </div>
 
 <br>
+
+__[Detalles de Proyecto](./README.md)__

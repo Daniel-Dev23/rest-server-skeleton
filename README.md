@@ -14,6 +14,8 @@ Este REST Server, no está orientado hacia una configuración especial hacia un 
 
 Es completamente __agnóstico__, esto quiere decir, que eres libre de usar esta base y modificarla según tus necesidades.
 
+__[Ver Imágenes de Proyecto](./thumbnails.md)__
+
 Además de utilizar __Express__, algunas dependencias que complementan a este proyecto son:
 
 - __dotenv:__ Dependencia para configurar variables de entorno.
